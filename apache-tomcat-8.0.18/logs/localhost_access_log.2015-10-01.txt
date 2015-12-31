@@ -1,0 +1,4 @@
+127.0.0.1 - - [01/Oct/2015:14:43:19 +0530] "GET /GradleTest/ HTTP/1.1" 404 1016
+127.0.0.1 - - [01/Oct/2015:14:43:31 +0530] "GET /GradleTestWorkSpace/ HTTP/1.1" 404 1034
+127.0.0.1 - - [01/Oct/2015:14:43:45 +0530] "GET /GradleTestWorkSpace/ HTTP/1.1" 404 1034
+127.0.0.1 - - [01/Oct/2015:14:44:00 +0530] "GET /GradleTest/ HTTP/1.1" 404 1016
